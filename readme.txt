@@ -24,7 +24,7 @@ I recommend using the Firefox browser as there is an issue with Googles Chrome b
 
 == Notes ==
 
-The room name is now: http://www.domain.com/groups/*group name*/.
+The room name is now: http://www.domain.com/groups/*group-name*/.
 
 == Frequently Asked Questions ==
 
