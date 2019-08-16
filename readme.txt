@@ -15,7 +15,7 @@ This uses the Tinychat video chat using HTML5 WebRTC so this can be used on near
 Once the plugin is installed, simply create a new group or choose an existing one, Selct 'manage then ' and enable, The chat allows users to display their camera/audio,
 YouTube is also enabled on this, Camera/audio is 16 per room and normal chatters can be upto 100+, 
 Please read the privacy policies for both companies which are available below, This plugin uses iframe to display the chat room directly from Tinychat.com,
-I recommend using the Firefox browser as there is an issue with Googles Chrome browser
+I recommend using the Firefox browser as there is an issue with Googles Chrome browser when trying to watch YouTube videos.
 
 == Installation ==
 
