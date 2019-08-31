@@ -5,11 +5,11 @@
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This plugin is used for BuddyPress to allow group creators to add TinyChat to the group using the same name as the group.
-* Version: 1.0.1
+* Version: 1.0.2
 * Requires at least: WordPress 5.0.0, BuddyPress 4.0.0
 * Tested up to: WordPress 5.2.2, BuddyPress 4.4.0
 * Network: true
-* Date: 22nd August 2019
+* Date: 30th August 2019
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
