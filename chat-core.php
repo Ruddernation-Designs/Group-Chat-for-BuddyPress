@@ -65,6 +65,7 @@ public	function display($group_id = null) {
 	width: 100%;
     height: 100%;
 	position:fixed;
+    top:0;
 	left:0px;
 	right:0px;
 	bottom:0px;
