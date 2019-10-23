@@ -4,8 +4,8 @@ Donate link: https://www.paypal.com/paypalme2/RuddernationDesigns
 Tags: group chat, buddypress group chat,video chat, tinychat, chat,buddypress chat,buddypress video chat
 Contributors: ruddernationdesigns
 Requires at least: 5.0.0
-Tested up to: 5.2.2
-Stable tag: 1.0.2
+Tested up to: 5.3
+Stable tag: 1.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -59,6 +59,15 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 
 * Minor CSS update.
 
+= 1.0.3 =
+
+Tested up to WP 5.2.3 and BP 5.0.0 with no issues, 
+I've also made a minor adjustment to the domain.
+
+= 1.0.4 =
+
+* Tested upto version 5.3 beta, currently everything works as normal.
+
 == Social Sites ==
 
 * Developer Website - https://www.ruddernation.com
@@ -66,6 +75,8 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 * GitHub - https://github.com/Ruddernation-Designs
 
 * WordPress - https://profiles.wordpress.org/ruddernationdesigns
+
+* Stack Overflow  - http://stackoverflow.com/users/5774880/ruddernation-designs
 
 * Special thanks to Tinychat - https://tinychat.com
 
