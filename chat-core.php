@@ -73,7 +73,7 @@ public	function display($group_id = null) {
 	}
 </style>
 	<?php 
-		echo '<div id="content"><iframe src="https://tinychat-spy.com/room/'.$name.'" name="room" frameborder="0" scrolling="no" height="97%" width="100%" allow="geolocation; microphone; camera; speaker; fullscreen;"></iframe></div>';
+		echo '<div id="content"><iframe src="https://tinychat.com/room/'.$name.'" name="room" frameborder="0" scrolling="no" height="97%" width="100%" allow="geolocation; microphone; camera; speaker; fullscreen;"></iframe></div>';
 	;?>
             <?php
 		} 
