@@ -1,15 +1,15 @@
 <?php
 /*
-* Plugin Name: Tinychat for BuddyPress Groups
+* Plugin Name: Video Chat for BuddyPress Groups - Tinychat
 * Plugin URI: https://wordpress.org/plugins/bp-group-chat/
 * Author: ruddernationdesigns
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This plugin is used for BuddyPress to allow group creators to add TinyChat to the group using the same name as the group.
-* Version: 1.0.8
+* Version: 1.0.9
 * Requires at least: WordPress 5.0.0, BuddyPress 4.0.0
-* Tested up to: WordPress 5.3.2
+* Tested up to: WordPress 5.4
 * Network: true
-* Date: 01st January 2020
+* Date: 09th March 2020
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
