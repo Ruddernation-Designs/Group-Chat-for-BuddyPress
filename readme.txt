@@ -1,15 +1,22 @@
-=== Video Chat for BuddyPress Groups - Tinychat ===
+=== Video Chat for BuddyPress Groups ===
 
 Donate link: https://www.paypal.com/paypalme2/RuddernationDesigns
 Tags: group chat, html5, buddypress group chat,video chat, tinychat, chat,buddypress chat,buddypress video chat
 Contributors: ruddernationdesigns
 Requires at least: 5.0.0
-Tested up to: 5.4
-Stable tag: 1.0.9
+Tested up to: 5.4.2
+Stable tag: 1.1.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
+
+You now have to register to use the chat, you can do that at https://tinychat.com , I apologise about that.
+
+You can now access dark mode! I've added screenshots on how to turn it on, I hope it helps.
+
+Tinychat have now removed YouTube!
+Hopefully this temporary, So again I apologise about that.
 
 This plugin is used for BuddyPress to add Tinychat video chat to Groups, so add https://tinychat.com and https://www.ruddernation.com to your whitelist,
 This uses the Tinychat video chat using HTML5 WebRTC so this can be used on nearly all devices,
@@ -33,6 +40,10 @@ This is a FREE plugin but you can upgrade to get better quality video and displa
 * Now click on 'Group Chat' and the chat will start to load.
 
 * This is how the chat displays after it's loaded.
+
+* Click the settings button.
+
+* Toggle dark mode on and you are all set!
 
 == Notes ==
 
@@ -85,6 +96,18 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 
 * Tested upto WP 5.4 without issues, There has also been a name change, You can now contact me with my details below.
 
+= 1.1.0 =
+
+* You now have to register to use the chat, you can do that at https://tinychat.com , I apologise about that.
+
+= 1.1.1 =
+
+* Tinychat have now removed YouTube, Hopefully this is temporary.
+
+= 1.1.2 =
+
+* I've now added instructions via the images on how to access 'Dark Mode'.
+
 == Social Sites ==
 
 * Developer Website - https://www.ruddernation.com
@@ -97,7 +120,7 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 
 * Special thanks to Tinychat - https://tinychat.com
 
-* Privacy Policy for Ruddernation Designs - https://www.tinychat.cf/privacy-policy/
+* Privacy Policy for Ruddernation Designs - https://www.ruddernation.com/privacy-policy/
 
 * Privacy Policy for Tinychat - https://tinychat.com/privacy.html
 
