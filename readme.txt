@@ -1,17 +1,21 @@
-=== Video Chat for BuddyPress Groups ===
+=== HTML5 Video Chat for BuddyPress Groups ===
 
 Donate link: https://www.paypal.com/paypalme2/RuddernationDesigns
 Tags: group chat, html5, buddypress group chat,video chat, tinychat, chat,buddypress chat,buddypress video chat
 Contributors: ruddernationdesigns
 Requires at least: 5.0.0
-Tested up to: 5.4.2
-Stable tag: 1.1.3
+Tested up to: 5.5
+Stable tag: 1.1.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-You now have to register to use the chat, you can do that at https://tinychat.com , I apologise about that.
+Having tested this using Firefox, Edge, Chrome on Windows 10 & Linux it works on all except for Chrome on Windows 10!
+You can bypass this in Chrome by searching in the developer tools, locate the cookies, go to Tinychat.com, locate a cookie named "remember_random-number", and change the value for 'Same Site' to none and remove the tick for HttpOnly and add a tick in 'Secure',
+This may only be affecting some users.
+
+You now have to register to use the chat, you can do that at <a href="https://tinychat.com"   rel="nofollow ugc"  >Tinychat</a> , I apologise about that.
 
 You can now access dark mode! I've added screenshots on how to turn it on, I hope it helps.
 
@@ -110,20 +114,24 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 
 == Social Sites ==
 
-* Developer Website - https://www.ruddernation.com
+* <a href="https://www.ruddernation.com"  rel="nofollow ugc">Developers Website</a>
 
-* GitHub - https://github.com/Ruddernation-Designs
+* <a href="https://www.facebook.com/rndtinychat"  rel="nofollow ugc">Facebook Page</a>
 
-* WordPress - https://profiles.wordpress.org/ruddernationdesigns
+* <a href="https://github.com/Ruddernation-Designs" rel="nofollow ugc">GitHub</a>
 
-* Stack Overflow  - http://stackoverflow.com/users/5774880/ruddernation-designs
+* <a href="https://profiles.wordpress.org/ruddernationdesigns"  rel="nofollow ugc">WordPress</a>
 
-* Special thanks to Tinychat - https://tinychat.com
+* <a href="http://stackoverflow.com/users/5774880/ruddernation-designs" rel="nofollow ugc">Stack Overflow</a>
 
-* Privacy Policy for Ruddernation Designs - https://www.ruddernation.com/privacy-policy/
+* <a href="https://tinychat.com" rel="nofollow ugc">Tinychat</a>
 
-* Privacy Policy for Tinychat - https://tinychat.com/privacy.html
+* <a href="https://www.ezcapechat.cf/"  rel="nofollow ugc">Special thanks to Ezcape Chat Creators.</a>
+
+* <a href="https://www.ruddernation.com/privacy-policy/" rel="nofollow ugc">Privacy Policy for Ruddernation Designs</a>
+
+* <a href="https://tinychat.com/privacy.html" rel="nofollow ugc">Privacy Policy for Tinychat</a>
 
 == Contact Details ==
 
-* Email - support@ruddernation.com - Any issues then please contact me here.
+* <a href="mailto:support@ruddernation.com" rel="nofollow ugc">Email</a> - Any issues then please contact me here.
