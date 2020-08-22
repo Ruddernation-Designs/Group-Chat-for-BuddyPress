@@ -109,13 +109,13 @@ class BP_tinychat_group_chat extends BP_Group_Extension {
 	<style>
 		iframe {
 			width: 100%;
-			height: 98%;
+			height: 100%;
 			position:fixed;
 		    top:0px;
 			left:0px;
 			right:0px;
 			bottom:0px;
-			z-index:999999;
+			z-index:999999999999;
 		}
 	</style>
 
