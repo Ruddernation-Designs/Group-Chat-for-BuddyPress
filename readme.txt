@@ -1,16 +1,17 @@
-=== HTML5 Video Chat for BuddyPress Groups ===
+=== Video Chat for BuddyPress Groups - Tinychat ===
 
 Donate link: https://www.paypal.com/paypalme2/RuddernationDesigns
 Tags: group chat, html5, buddypress group chat,video chat, tinychat, chat,buddypress chat,buddypress video chat
 Contributors: ruddernationdesigns
 Requires at least: 5.0.0
 Tested up to: 5.5
-Stable tag: 1.1.6
+Stable tag: 1.1.9
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
+YouTube is back!
 Having tested this using Firefox, Edge, Chrome on Windows 10 & Linux it works on all except for Chrome on Windows 10!
 You can bypass this in Chrome by searching in the developer tools, locate the cookies, go to Tinychat.com, locate a cookie named "remember_random-number", and change the value for 'Same Site' to none and remove the tick for HttpOnly and add a tick in 'Secure',
 This may only be affecting some users.
@@ -18,9 +19,6 @@ This may only be affecting some users.
 You now have to register to use the chat, you can do that at <a href="https://tinychat.com"   rel="nofollow ugc"  >Tinychat</a> , I apologise about that.
 
 You can now access dark mode! I've added screenshots on how to turn it on, I hope it helps.
-
-Tinychat have now removed YouTube!
-Hopefully this temporary, So again I apologise about that.
 
 This plugin is used for BuddyPress to add Tinychat video chat to Groups, so add https://tinychat.com and https://www.ruddernation.com to your whitelist,
 This uses the Tinychat video chat using HTML5 WebRTC so this can be used on nearly all devices,
@@ -116,17 +114,9 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 
 * <a href="https://www.ruddernation.com"  rel="nofollow ugc">Developers Website</a>
 
-* <a href="https://www.facebook.com/rndtinychat"  rel="nofollow ugc">Facebook Page</a>
-
-* <a href="https://github.com/Ruddernation-Designs" rel="nofollow ugc">GitHub</a>
-
 * <a href="https://profiles.wordpress.org/ruddernationdesigns"  rel="nofollow ugc">WordPress</a>
 
-* <a href="http://stackoverflow.com/users/5774880/ruddernation-designs" rel="nofollow ugc">Stack Overflow</a>
-
 * <a href="https://tinychat.com" rel="nofollow ugc">Tinychat</a>
-
-* <a href="https://www.ezcapechat.cf/"  rel="nofollow ugc">Special thanks to Ezcape Chat Creators.</a>
 
 * <a href="https://www.ruddernation.com/privacy-policy/" rel="nofollow ugc">Privacy Policy for Ruddernation Designs</a>
 
