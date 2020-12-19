@@ -5,12 +5,12 @@
 * Author: ruddernationdesigns
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This plugin is used for BuddyPress to allow group creators to add TinyChat to the group using the same name as the group.
-You now have to register to use the chat, you can do that at https://tinychat.com , I apologise about that, now includes dark mode, YouTube is back!.
-* Version: 1.1.9
+You now have to register to use the chat, you can do that at https://tinychat.com , This now includes a dark mode, YouTube is back!.
+* Version: 1.2.0
 * Requires at least: WordPress 2.0, BuddyPress 1.0.0
-* Tested up to: 5.5
+* Tested up to: 5.6
 * Network: true
-* Date: 28th November 2020
+* Date:19th December 2020
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
