@@ -123,18 +123,8 @@ class BP_tinychat_group_chat extends BP_Group_Extension {
 	<?php 
 		echo '<div id="content">
 		<iframe src="https://tinychat.com/room/'.$name.'" name="room" frameborder="0" scrolling="no" height="100%" width="100%" allow="geolocation; microphone; camera; speaker; fullscreen;"></iframe>
-		</div>';?>
-
-    <?php
-
-		} else {
-
-			echo '<div id="message" class="error">
-			<p>Sorry group chat is only available to group members, Please join or request to join the group.</p>
-			</div>';
-
-			}
+		</div>';
+	}
 		}
-	} 
-
+			}
 	bp_register_group_extension( 'BP_tinychat_group_chat' ); ?>
