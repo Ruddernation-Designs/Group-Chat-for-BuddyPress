@@ -5,16 +5,18 @@ Tags: group chat, html5, buddypress group chat,video chat, tinychat, chat,buddyp
 Contributors: ruddernationdesigns
 Requires at least: 5.0.0
 Tested up to: 5.6
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
 YouTube is back!
+
 Having tested this using Firefox, Edge, Chrome on Windows 10 & Linux it works on all except for Chrome on Windows 10!
+
 You can bypass this in Chrome by searching in the developer tools, locate the cookies, go to Tinychat.com, locate a cookie named "remember_random-number", and change the value for 'Same Site' to none and remove the tick for HttpOnly and add a tick in 'Secure',
-This may only be affecting some users.
+This may only be affecting some users, Images on how to do this are now below.
 
 You now have to register to use the chat, you can do that at <a href="https://tinychat.com"   rel="nofollow ugc"  >Tinychat</a> , I apologise about that.
 
@@ -22,11 +24,7 @@ You can now access dark mode! I've added screenshots on how to turn it on, I hop
 
 This plugin is used for BuddyPress to add Tinychat video chat to Groups, so add https://tinychat.com and https://www.ruddernation.com to your whitelist,
 This uses the Tinychat video chat using HTML5 WebRTC so this can be used on nearly all devices,
-Once the plugin is installed, simply create a new group or choose an existing one, Selct 'manage then ' and enable, The chat allows users to display their camera/audio,
-YouTube is also enabled on this, Camera/audio is 16 per room and normal chatters can be upto 100+, 
-Please read the privacy policies for both companies which are available below, This plugin uses iframe to display the chat room directly from Tinychat.com,
-I recommend using the Firefox browser as there is an issue with Googles Chrome browser,
-This is a FREE plugin but you can upgrade to get better quality video and display a banner on your name in the chat room.
+Once the plugin is installed, simply create a new group or choose an existing one, Selct 'manage then ' and enable, The chat allows users to display their camera/audio.
 
 == Installation ==
 
@@ -47,14 +45,21 @@ This is a FREE plugin but you can upgrade to get better quality video and displa
 
 * Toggle dark mode on and you are all set!
 
+* Tinychat sign on/register button.
+
+* Tinychat registration/sign on page.
+
+* Cookie manager page, You will need a cookie management plugin to edit your cookies.
+
+* Change the values for the highlighted cookie to http-only and secure then edit the same site to none.
+
+* Refresh your chat page and now it should show you logged in at the bottom left.
+
 == Notes ==
 
 The room name is now: http://www.domain.com/groups/*group-name*/.
 
 == Frequently Asked Questions ==
-
-* Q. Can I use this if I'm not logged in?
-* A. No, You have to be logged in and you have to be a member of the group.
 
 * Q. What kind of chat is this?
 * A. The chat is running in HTML5 using WebRTC, so this will work on your computer without the need for flash player anymore.
@@ -109,6 +114,10 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 = 1.1.2 =
 
 * I've now added instructions via the images on how to access 'Dark Mode'.
+
+= 1.2.1 =
+
+* I've now added images on how to register on Tinychat and how to edit your cookies so you'll be shown as logged in on your website.
 
 == Social Sites ==
 
