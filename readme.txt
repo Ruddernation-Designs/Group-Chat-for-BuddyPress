@@ -1,13 +1,12 @@
-=== Video Chat for BuddyPress Groups ===
+=== Video Chat for BuddyPress Groups -Discontinued ===
 
-Donate link: https://www.paypal.com/paypalme2/RuddernationDesigns
 Tags: group chat, html5, buddypress group chat,video chat, tinychat, chat,buddypress chat,buddypress video chat
 Contributors: ruddernationdesigns
 Requires at least: 5.0.0
-Tested up to: 5.7.2
-Stable tag: 1.2.1
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tested up to: 5.8.2
+Stable tag: 1.2.3
+License: MIT
+License URI: https://mit-license.org/
 
 == Description ==
 
@@ -54,6 +53,12 @@ Once the plugin is installed, simply create a new group or choose an existing on
 * Change the values for the highlighted cookie to http-only and secure then edit the same site to none.
 
 * Refresh your chat page and now it should show you logged in at the bottom left.
+
+* Cookie Editor.
+
+* Search for Tinychat cookies.
+
+* How to complete the cookie editing.
 
 == Notes ==
 
@@ -118,6 +123,10 @@ The room name is now: http://www.domain.com/groups/*group-name*/.
 = 1.2.1 =
 
 * I've now added images on how to register on Tinychat and how to edit your cookies so you'll be shown as logged in on your website.
+
+= 1.2.3 =
+
+* Added new screenshots to show the editing of the cookies.
 
 == Social Sites ==
 
