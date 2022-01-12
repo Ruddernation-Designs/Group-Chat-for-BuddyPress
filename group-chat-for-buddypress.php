@@ -1,16 +1,16 @@
 <?php
 /*
-* Plugin Name: Video Chat for BuddyPress Groups - Tinychat
+* Plugin Name: Video Chat for BuddyPress Groups -Discontinued
 * Plugin URI: https://wordpress.org/plugins/bp-group-chat/
 * Author: ruddernationdesigns
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This plugin is used for BuddyPress to allow group creators to add TinyChat to the group using the same name as the group.
 You now have to register to use the chat, you can do that at https://tinychat.com , This now includes a dark mode, YouTube is back!.
-* Version: 1.2.1
+* Version: 1.2.4
 * Requires at least: WordPress 4.0, BuddyPress 4.0
-* Tested up to: 5.7.2
+* Tested up to: 5.8.2
 * Network: true
-* Date: 27th May 2021
+* Date: 12 January 2022
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
@@ -53,6 +53,6 @@ global $wpdb;
 
 		require_once( ABSPATH . 'wp-admin/upgrade-functions.php' );
 			dbDelta($sql);
-			update_site_option( 'bp-tinychat-group-chat-db-version', BP_TINYCHAT_GROUP_CHAT_DB_VERSION );
+			update_site_option( 'bp-tinychat-group-chat-db-version', bp_tinychat_group_chat_db_version );
 }
 	register_activation_hook( __FILE__, 'bp_tinychat_group_chat_activate' ); ?>
