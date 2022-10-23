@@ -10,6 +10,8 @@ License URI: https://mit-license.org/
 
 == Description ==
 
+Use at own risk on your WordPress/BuddyPress websites as this has not been updated since 12 January 2022 and I've removed it from the WordPress directory to prevent anymore downloads.
+
 YouTube is back!
 
 Having tested this using Firefox, Edge, Chrome on Windows 10 & Linux it works on all except for Chrome on Windows 10!
